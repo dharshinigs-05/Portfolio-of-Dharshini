@@ -1,73 +1,130 @@
-# Welcome to your Lovable project
+# 🚀 Dharshini G S – Portfolio
 
-## Project info
+This is my personal portfolio website showcasing my work in **AI-integrated full-stack development, real-time systems engineering, and intelligent web applications**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🔗 Live Website: [https://portfolio-of-dharshini.vercel.app/](https://portfolio-of-dharshini.vercel.app/)
+📍 Location: Chennai, India
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## 👩‍💻 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Pre-final year B.Tech Information Technology student (2023–2027) at Panimalar Engineering College (CGPA: 8.8/10).
 
-Changes made via Lovable will be committed automatically to this repo.
+I focus on building:
 
-**Use your preferred IDE**
+* AI-powered applications
+* Real-time collaborative systems
+* Scalable full-stack web platforms
+* Intelligent SaaS-style architectures
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+## 🛠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Frontend**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* ReactJS
+* HTML5
+* CSS3
+* Responsive UI Design
 
-# Step 3: Install the necessary dependencies.
-npm i
+**Backend**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+* Node.js
+* Express.js
+* FastAPI
+* REST API Architecture
+* JWT Authentication
 
-**Edit a file directly in GitHub**
+**Real-Time Systems**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* WebSockets
+* Socket.IO
+* Concurrent State Management
 
-**Use GitHub Codespaces**
+**Databases**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* MongoDB
+* SQL
 
-## What technologies are used for this project?
+**AI Integration**
 
-This project is built with:
+* Machine Learning Fundamentals
+* NLP-based systems
+* AI feature integration into web apps
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 🌟 Featured Projects
 
-## Can I connect a custom domain to my Lovable project?
+### 1️⃣ HackNect – AI-Powered Hackathon Matchmaking Ecosystem
 
-Yes, you can!
+AI infrastructure for hackathon team formation and startup talent discovery.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* Skill-based matchmaking engine
+* Vector embeddings + cosine similarity
+* Team dashboards & role management
+* Skill Gap Heatmap
+* Mentor Radar system
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+### 2️⃣ Real-Time Collaborative Document Editor
+
+Google Docs–style multi-user document collaboration built from scratch.
+
+* Live synchronization using Socket.IO
+* Role-based access control
+* Version history & rollback
+* Secure document sharing
+
+
+
+### 3️⃣ AI-Powered Blogging Intelligence Platform
+
+AI-assisted content optimization platform.
+
+* Markdown-based editor
+* SEO & readability scoring
+* AI content suggestions
+* Engagement analytics dashboard
+
+
+
+### 4️⃣ AI-Based Resume Analyzer
+
+Intelligent resume screening and candidate-job matching assistant.
+
+* Resume parsing
+* Job description comparison
+* Match scoring algorithm
+* Improvement recommendations
+
+
+
+## 📄 Resume
+
+You can download the latest version of my resume directly from the portfolio website.
+
+The resume is version-controlled and updated alongside the project.
+
+
+
+## 📬 Contact
+
+📧 Email: [gsdharshini2005@gmail.com](mailto:gsdharshini2005@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/dharshinigs/](https://www.linkedin.com/in/dharshinigs/)
+💻 GitHub: [https://github.com/dharshinigs-05](https://github.com/dharshinigs-05)
+
+
+
+## ⚡ Deployment
+
+This portfolio is deployed on **Vercel** with automatic CI/CD from GitHub.
+
+
+
+### 💡 Note
+
+This portfolio reflects my ongoing journey in building scalable, intelligent, and real-time web systems. Continuous updates and enhancements are part of the development process.
